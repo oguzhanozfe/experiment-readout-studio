@@ -1,0 +1,19 @@
+{
+  "model": "gemma-4-e4b-it",
+  "provider": "local",
+  "source_sha256": "43ec73c0c0546dd51fb319ed2065ba57e9ff161cba7db4152810c039cb04133f",
+  "considered": 4,
+  "total": 4,
+  "recommendations": [
+    {
+      "id": "readout:Desktop",
+      "evidence_id": "control:Desktop",
+      "why": "The Desktop cohort shows full window completion, randomization, and sufficient sample sizes (420/103) for interpretation."
+    },
+    {
+      "id": "readout:Mobile",
+      "evidence_id": "treatment:Mobile",
+      "why": "The Mobile cohort meets criteria including full window completion, randomization, and adequate sample size (294/65) for interpretation."
+    }
+  ]
+}

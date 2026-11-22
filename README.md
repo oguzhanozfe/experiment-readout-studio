@@ -2,11 +2,13 @@
 
 Estimate binary outcome lift by cohort with score intervals, allocation checks and reviewed Markdown readouts.
 
-[![Verify](https://github.com/oguzhanozfe/experiment-readout-studio/actions/workflows/check.yml/badge.svg)](https://github.com/oguzhanozfe/experiment-readout-studio/actions/workflows/check.yml) · [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/experiment-readout-studio) · [Input guide](GUIDE.md)
+**[Open the live demo](https://oguzhanozfe.github.io/experiment-readout-studio/)** · [![Verify](https://github.com/oguzhanozfe/experiment-readout-studio/actions/workflows/check.yml/badge.svg)](https://github.com/oguzhanozfe/experiment-readout-studio/actions/workflows/check.yml) · [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/experiment-readout-studio) · [Input guide](GUIDE.md)
 
 A headline uplift can hide a missing arm or a small cohort. Compare event rates with intervals and attach validity checks to the result you share.
 
 ![Example result for Experiment Readout Studio](docs/result.png)
+
+The live demo lets you edit the input, search proposed changes with an on-device model and download the result. [Browser demo details](demo/DEMO.md)
 
 ## Try it
 
