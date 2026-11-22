@@ -1,0 +1,17 @@
+{
+  "action": "Include Desktop: ready for interpretation",
+  "id": "readout:Desktop",
+  "linked_source_records": [
+    "control:Desktop",
+    "treatment:Desktop"
+  ],
+  "choices": {
+    "readout:Desktop": ""
+  },
+  "artifacts": {
+    "experiment-readout.md": {
+      "sha256": "5d502de3fdc6efa04fbd22049a3037e081c14e578868ba87a08f385d31570774",
+      "changed_by_approval": true
+    }
+  }
+}

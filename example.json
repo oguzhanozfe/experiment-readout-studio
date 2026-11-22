@@ -1,0 +1,56 @@
+{
+  "experiment": "First export walkthrough",
+  "randomized": true,
+  "expected_treatment_share": 0.5,
+  "min_arm_size": 40,
+  "cohorts": [
+    {
+      "id": "Desktop",
+      "window_complete": true,
+      "control": {
+        "exposed": 420,
+        "converted": 103
+      },
+      "treatment": {
+        "exposed": 418,
+        "converted": 127
+      }
+    },
+    {
+      "id": "Mobile",
+      "window_complete": true,
+      "control": {
+        "exposed": 290,
+        "converted": 57
+      },
+      "treatment": {
+        "exposed": 294,
+        "converted": 65
+      }
+    },
+    {
+      "id": "Partner beta",
+      "window_complete": false,
+      "control": {
+        "exposed": 22,
+        "converted": 4
+      },
+      "treatment": {
+        "exposed": 7,
+        "converted": 2
+      }
+    },
+    {
+      "id": "New market",
+      "window_complete": true,
+      "control": {
+        "exposed": 0,
+        "converted": 0
+      },
+      "treatment": {
+        "exposed": 13,
+        "converted": 3
+      }
+    }
+  ]
+}
